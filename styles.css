@@ -39,9 +39,8 @@ p {
 
 img {
     margin-top: 15px;
-    height: 130px;
+    height: 100px;
     flex: content;
-    margin: 15px 0px 0px 60px;
 }
 
 .contenedor {
